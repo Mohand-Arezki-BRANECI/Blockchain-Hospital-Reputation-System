@@ -34,8 +34,8 @@ Outils : npx hardhat test pour les tests unitaires
 5 tests principaux : ajout hôpital, suspension, contestation, audit, réputation
 
 6. Instructions d'installation
-npx hardhat compile
-npx hardhat test
-npx hardhat node
+npx hardhat compile \n
+npx hardhat test \n
+npx hardhat node \n
 npx hardhat run scripts/deploy.js --network localhost
 
